@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<VTKFile type="UnstructuredGrid" version="0.1" byte_order="LittleEndian" compressor="vtkZLibDataCompressor">
+  <UnstructuredGrid>
+    <Piece NumberOfPoints="16" NumberOfCells="9">
+      <PointData>
+        <DataArray type="Float32" Name="u" format="binary" RangeMin="0.042494893074" RangeMax="0.63797217607">
+          AQAAAACAAABAAAAASwAAAA==eJwBQAC//8ajQT1bC3s+nlXiPiVSIz8xPSs+RI12Pt0Npz5L9Ng+eJspPs8tRz4BUWA+DQV1PiAPLj382dk9HZb2PfY7rT0Hehip
+        </DataArray>
+        <DataArray type="Float32" Name="sigma" NumberOfComponents="3" format="binary" RangeMin="0.001313753245" RangeMax="0.074239081662">
+          AQAAAACAAADAAAAAogAAAA==eJwLSWq3+nshZBcDEHRO0rJx0TpvA2IXPVhnnd3yFcxeVpWx59b5CDD77gQp2znCPVYg9pa57HsS/ytYg9gbFn+w4tr/0hLEtsvuto1Ytmg3iH2kWcGWdd8VsPmVRlZ7ePd/BItnxu22UFFQ3wNihy2cZjs7UhXMDp63wXrNbEEw+9bCaVYawl1g9fvbTlswsjGC2Y1xQtaHeXnBbADBnjt9
+        </DataArray>
+      </PointData>
+      <CellData>
+        <DataArray type="Int32" Name="Polynomial Order" format="binary" RangeMin="2" RangeMax="2">
+          AQAAAACAAAAkAAAADgAAAA==eJxjYmBgYCKAAQGMABM=
+        </DataArray>
+      </CellData>
+      <Points>
+        <DataArray type="Float32" Name="Points" NumberOfComponents="3" format="binary" RangeMin="0" RangeMax="1.4142135624">
+          AQAAAACAAADAAAAAPgAAAA==eJxjYECA1atW2SHYWvYImQYkNkIdiEawtewR+hvssZkFUQ9jg9TD7Giwx2YfxIwGe4QZDfYIeQgbAMQzJdE=
+        </DataArray>
+      </Points>
+      <Cells>
+        <DataArray type="Int64" Name="connectivity" format="binary" RangeMin="0" RangeMax="15">
+          AQAAAACAAAAgAQAARQAAAA==eJxdzEEOgCAMRFGQKkVU7n9bF8xsfjc/mby0lH1VPdXAfqgXnPemdriAH2pit7/hvPvvhEv4V32w239w3v13wf1z+AEP
+        </DataArray>
+        <DataArray type="Int64" Name="offsets" format="binary" RangeMin="4" RangeMax="36">
+          AQAAAACAAABIAAAAIAAAAA==eJxjYYAADijNA6UFoLQIlJaA0jJQWgFKq0BpABToALU=
+        </DataArray>
+        <DataArray type="UInt8" Name="types" format="binary" RangeMin="9" RangeMax="9">
+          AQAAAACAAAAJAAAACwAAAA==eJzj5IQCAAGeAFI=
+        </DataArray>
+      </Cells>
+    </Piece>
+  </UnstructuredGrid>
+</VTKFile>
