@@ -3,11 +3,11 @@
   <UnstructuredGrid>
     <Piece NumberOfPoints="52" NumberOfCells="36">
       <PointData>
-        <DataArray type="Float32" Name="u" format="binary" RangeMin="-0.41736698151" RangeMax="1.0822665691">
-          AQAAAACAAADQAAAA2wAAAA==eJwB0AAv/ynVxj4dyfI+YKEDPwkhAj8ADuy8Rr1RvC+qLr1NBRq9yzq7vcxVuT7fmG0/toeKP1oagj+5CDs/gV5JP/schD8TYoc/QIwyP05mhD8bIik/BUANP7tU3T50hwM/SNdLPzuWWz1zxAI9lNDfPYtFkj4lMOa9Jn89PMo7GjxoafO9uxxcPfwOvj4oUFs+ILHVvrl70zugwye+frwWPQe9Gz+AIQK6KFxXvR4u2rxjY549WQMmPIm6jzy624e8R/C8vYwLHT3HnT49ChyJPTrtyz1iL1Xm
+        <DataArray type="Float32" Name="u" format="binary" RangeMin="-0.74510145187" RangeMax="1.058475256">
+          AQAAAACAAADQAAAA2wAAAA==eJwB0AAv/x+mXj+E1mU/K+VlPxPSXj87vYI+h6iLPlZQhj6EORM8lPmAPOHDBT7xwy0/ubx2Px58hz96dnY/qCoiP7QJaD97K30/XR8bP6zkXT8Pohg/NwYCPyxRCj+2Whc/1yIpPzeNTD7UB60+uoTwPqZeGD/q6Eo9G1ijPuF+sD7bogE+mn9qPSyT9z7BR10++L4+v9VVWz2pzs08e6ivPlvzgD8Shw09zziaOygeAz50I88+vrCaPJa2d7sF9488kd6pPdlN1jutGrC5CDI/POFPLj3VV1fD
         </DataArray>
-        <DataArray type="Float32" Name="sigma" NumberOfComponents="3" format="binary" RangeMin="0.001037449538" RangeMax="0.19671133071">
-          AQAAAACAAABwAgAA9QEAAA==eJyr2WFs1/lh614GIDhSIWBn0jYBzFaO+mir2lIAZh9bdcPW3SMKzNZuTbdZqNNnBWIfOtljk+F1djeI3bmDwfakwpI9IPaCfve9sSlNNiB2mBrbnn3ru8HiDodD92ybZwo2J8Y+a2/A5TQwm+GhsI3nhh6w+rv+0bY39wvbgtj7kufYKj3baAlib3wctUf9filY/d2Hf3edZtYD23tYxGPPpJtbLUDsy4/cbc6rmoPVRIb93/PLLBWshm/1fBuVuVpgNzhOLtnrv30vWM2kOz57/C9OAbPnz+yx0e6MBrPNPr63cVUSBLOvXP6yh/nJXrDe9uM7LGtP1u8CsZ3aPW0YFc6D2VfMDlvL7z8DVvOy9LuVcHekNYgdV2hg8+//DbC/JrCp7J5gOQ/MnhQlvfel4lSw+u67grYSVuFgdtakmTYe2fJgNbuN7+/Z+kAEzL629OLe8zfLwGrU2nP2KPYeB7MnfRPa45SfAnbDxr4vNnvtd4LFp3+7YFtdsR3sftlzsjbsGx6A42uhRcVu2ZeQeFmmlm7NJs4HZqeGMtqe610K1htxItvmd8hWsPsTuj7tvJ7GC1aT27pn9/FLEPf0ih3aNevOQ7CadTJqO8/GBIP15m5vtuo7shvM5nnIbC2tth7MNltnbS27jB3MBgBYjc/4
+        <DataArray type="Float32" Name="sigma" NumberOfComponents="3" format="binary" RangeMin="0.0029180084883" RangeMax="1.0723252637">
+          AQAAAACAAABwAgAA8gEAAA==eJz7fcjHvufB+X0MQFB/3NLe8tkOMDuux9A+3WAjmD1N0MRebD9E3Dm32+5F3uO9ILZXXZXdlX/vwexdE1vsUi7IgNWwfxSzWfPbzBrE1lZ5ajN5URxYzfwZOjYPeVvAbJN5h/fd8ksDq//Ps23v8RpesHg4T7vtwXA9WxDb6PIK27mCl8DmzD58bK9PQghY/dQG8T3XIjPA6nnvlexVtpy3B8TOaz1l801WC6wmTXnf3sPPE8Fqtqt37tnAfx7MbtyxfZ/962tgNTUPTu3NWN4LZl86cNImfKYkmB3T4GHjf0MJrH4qr+C+N39awOL+R4/ZNC7dARavkd9o6zRLDMyeE2dhO+nVaTCbjW2JbewydrD6SbUMdvH1nWC/1L54YJ2cfd8GxP6i37tvMl8jWE3ygzl2BgXSYL3VdYF2DS/c7UDskMTofbVdOmC9K82L91+f9g+sfvWRZ1Ybu3rB6t/NPG2zOa4P7PeERY12V7eKgtW0XtC3X+X4EsxW3PLZ5pvUQbAa+zwjm+p+M7AbrM6dtZVeUwo2Z8btGXZR84vA6k1PvrZJady9C+ye8AzrLhZ7sHp58Yk2Z69MAptT+HuibfB6SDhMdZ+6S0XQYDeI/X6VhbXs+kawmmlM861zVJaA2WVbF1krHKkCswFo59QD
         </DataArray>
       </PointData>
       <CellData>

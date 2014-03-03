@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<VTKFile type="UnstructuredGrid" version="0.1" byte_order="LittleEndian" compressor="vtkZLibDataCompressor">
+  <UnstructuredGrid>
+    <Piece NumberOfPoints="320" NumberOfCells="80">
+      <PointData>
+        <DataArray type="Float32" Name="\widehat{u}" format="binary" RangeMin="-0.40520820022" RangeMax="1">
+          AQAAAACAAAAABQAAQAMAAA==eJzF09tL02EYB/DZxbRsJPNAepMXkaccJUFuv8PCrAW7yA52cCiEoaZCkNMtw0OCzQNbQtRYGKGYSBYiNZv77ZUMCzs4vfDCIlYSpWvJMjNDZPV8Y4H0D3Txg7HnfZ73C8/nNc6btYGKBmH0g1asDh0U+1PN2qaoyJHpunfMYBf5UF2V9mWfcyRw3y5e7M4RXTFmbXzaAtuZFMc6atcE08cqbZVpcsRXbxFudXUz1BOonkV1B9XX95upH/Mbw/NLaP72/n3irKQXNeM5okpuEFtN0by3zSGVKuRSeqxCY8zbIfZ+k7PmxUhexTL5oiNfheaCrexNcjSL96WIjrfFbNDQxRdGJ7PdZQHhhk4v7B2o9/Q2bBbWZh6z21R3U/0M1TVUVx2O8nSaXRpHTqRHrhzkH5ke8MX6BSk9aUZjfZ8hpJalC6O91zR5iflcRrKSm7Ytas7NbZHsbX63vkemvk75JihfPuWbVyo0P528uNIxKgVLJTbU5+KQEVmRGdmREVmRGdmzfH7Ba3nOKirtbFn37M+H31P0H0e1UjpjpbOvqSeWei/QjB6aVUMz1TR7gu7AXQG6E3fvv3RaPGG7J8wGC/mnNc3qppshdeL33OxTTqvry0KcumiDgp8d++F+8mpg2KCK4FraU8RDTofnzt1tnsmxTOH4i6AQSCrwLPXPSCrbMP83DzIiKzJNrcu7h86s0tkl6imkXi/N6KFZOpppodn1dMcq3RWkO8vp7lbKsPbQ6vIt5WYvO0JqjjJ+oqwnKTOywxgswBxswBiswAzswBiswRxswRiswRzswRisJYTr5n/6S8LzG8PzYRzWYd5I9mEM1mAO9rpox2O062ra+VXa/SYyYCQLjEykkQ0bjJCVY2RmkOzIyFAnWTpPpnaRLRiERZiETRiERZiETRiERZiETewYu8bOsXvsGLvGzrF7GIM1mIM9vBG8FbwZvB2ZrFH7P7+hsMeVsEcYgzWYgz0YgzWYgz0YgzWYgz1/rdIzHnOWuxzr5jZ+rmT+4nJ2oLud/2XR8RtcRwV8ES06Xkf/LVIths5cobNe6pmjXhiERZiETRiERZiETRiERZiETWQMhN8r3tJveZJH1w==
+        </DataArray>
+        <DataArray type="Float32" Name="\widehat{\beta \cdot n u - \sigma_{n}}" format="binary" RangeMin="-0.21612675488" RangeMax="0.21355779469">
+          AQAAAACAAAAABQAATgMAAA==eJyl0+tLU3EYB3BRm7qsXJoaYmSGtxRNnOecORXTCBIvOfMWS9LISwbZwrS0cCU1UyEjlhGUZSa4RS+cOzvbHKVi+CK8JASFl6K8JZIpiIr2fKP/wMGBwzm/8zxf9nwexYkzYXyNf6jm5HynYlh0pHnWxXpRiLQcmiljlxyTha8ZE2bnIa3wvr5EVuQZLripWrmeATH/YL2YT4iv5sY2zGEbeUFh/gGPQkcSraG7VK0m0Qcxa1ovZjPjq02TGRMxkiGtrK++REj1DJc9nHWJvSREys9Nl/GfHJNlrnu89U0pu/W915z1ukaRPkxmk/ZVNEvFRe1Su53r0vnzHfzGK29j1G+BGSkvZhj3OL4iQsH6hdsx6ZNSU2m+lyE3ra27QdnS/VY7HqWZtdc7ufO6voZ3Ov+DEn1Evpc0I60tuk7ZEh3yeLzLbpu/vTKbobOi2bB8od2wIF43/HiTFzfF6GIlmTnylbFSGTIiKzIjOzIiKzIj+6hyjc2e6zTGlgfwwstado4uFd2P0rNVesfRmRo6e5S+UdC3v6jGGtWKoZqLVHuQeuyjXt+oJ3on3siNy2rSxU4tKuX9FXWc+skmt385ic0xNPILCx5cYaGev+IWyLuqfYwHDnsx9sEW3j3EYny+IyS6aKDSOFswyaed3er+KFIzCau+/zIhGzIiKzIhGzIiq9OqL/tCpDauKbeinxZMsp/7K5lCh5Du6WALUxVkYdMDvIwjah8m3S2QfVagZzWUYaOrkR//k8SutGxycsr4k7JmU2ZkhzFYgznYgzFYgznYgzFYgznYgzFYgznYgzFYgznYgzFYgznYgzFYgznYg3FYh3kF2YcxWIM52NuuDxiERZiETRiERZiETRiERZiETcwYs8bMMXvMGLPGzDF7GIM1mIM97Ah2BTuD3cm672Ctuqq1FmnEPafTlT0pg8PmW6eOm+8mZlpel3lYG20q88SXJa7ar50zHbtn1n4XWInmjsnBepm1tdfJeumS0z2e1dI7gc7cpLMz9A2+7aAaGqp1m2qmUm30QK/r1DObesM87E/99whjsAZzsAdjsAZzsAdjsAZzsLfd/xsGYREmYRMGYREmYRMGYfGfSbKJjNgd7BB26S9vWf4R
+        </DataArray>
+      </PointData>
+      <CellData>
+      </CellData>
+      <Points>
+        <DataArray type="Float32" Name="Points" NumberOfComponents="3" format="binary" RangeMin="0.99999996197" RangeMax="9.4844639622">
+          AQAAAACAAAAADwAASwQAAA==eJxtlk+IXEUQh/cgIkFxwSDmFMEZMEQkgn/AxfSbgyAeBAUPwhqJhwh6iBdRkWzWwwaEYCAqGsGA7g5mI1m8CRmZepggYY1ETwsKOXgSzDWBTQ7rq66uru9l82DYb2Z/XV3V3a9+fe3lxXRsfe/KTPesvPtF2vn5m5nnT5xNf64dz7xzTdKpB85kvnjP00k/yifv+jDpR3nfzOmkH+WHFiTpR3ly8J/BtW4O5a8evzLQOZTfuzUZ6BzKr1w6M9A5SnxBfEF8QXzx+F1s2XX4mWHJXz775MFhyV92vfDfoOQv9x5ZHSC+IL4gviB+5lfPHRnrHMp/ffT8WOdQPvDifWOdQ/nXJ86u6BxYH4+fED8hfvL4v1++mOvQ59Chxcb561NXmvj9/pGz6dsUemPT+++qNz7xy/U5543lmTp2z/zRys/tELJAIxgriDlx3r2UWucdG7sr33h0pvKF66309faY3h7T22N6e0p8QXxBfEF8CX3Tht7Y9MamN7Z6ja1eY6vX2OqtPAdNwtiEmJVtv4xtv4xtv/x33S/qrZayv4L9FexvWaM2WU7GlpOx5WRsOfX3mmeAZ4NnhnvNM8CzwTOjeflcyshBkJsgZ7E5qkYwVhBTMJcgB0Fugpyd56BJGFu5rEldT5+rrGFl5JYi59lR1DI7ihpnR1H77CjWZHbUnb/K3blsnLvzWrk7x43PFfo2hb5NoW9T6PP5rj0l9Pl9qIz4gviC+IL4Qj33jnvKveYZwHr29pR7zTMQPSLnUDl6RM75th5Ra6x8556S18rjJMRPiJ9Cn/eidQ593rvK1Ee9+QxUjnrzmcn10ivpofRWeu7Pr90cu1euf3xh7B66sXp87N56aXnv2D2XXkkPpbfSc9XHPn3s5lhZ/e3btZ8yq++9dfDtzNlzf1tfQfxtHkpvpee+sbU5dK/84O8fhu6hDx+eG7q3Lj27+Yh7Lr2SHkpvpefq2nx5ddPvAOnuG3/43SD9e+D7Yck/nV84vaxMr+x7aHhr33Nzr25Cb1x6exN64+IFmYtHZC7ekbl4ivMEGsFYQczKxcsyF4/LXLwvc/FE6Ld7NL2bns73jO8T3zO+f/RiejS9m57OXs0ezt7Ons9ezR7O3s6eT6/se2h4a99z467Vv4PF3Yx3tpPnn0rfvPRk/v7j1dfT/Dtb+5VX972fvtuzlHlh62i6fG4x90z9q9+V9f+qU9ZxOl5Z42ncwuLcaaau6cZOfWwXc+Ixu7/ic3X/F8+hGyeeWxdPPOfCAs0UY6eIOcFcghwEuQlydk7OpUYfu9/HljURrNUEazjF2k6x5vTr6o+88/AuxDsSvZUeSm+lh9Jb6aH0VnoovZIeSm8NfdOGvmlD37Shb1rqo96mjXqbNupt2qg38wQawVhBzMrxzuccWuRWmR4Nb+15NL17e4+oa1h/v3NPoRf3PZreTT3uEr07G+9yXu///+XtXQ==
+        </DataArray>
+      </Points>
+      <Cells>
+        <DataArray type="Int64" Name="connectivity" format="binary" RangeMin="0" RangeMax="319">
+          AQAAAACAAAAACgAALQIAAA==eJw11WeDCAQAgOFzi3N33B13bnPujjs33N6DBk0RGSWiKCqlgUQy2sNoT5kZ2ZoqI6WhNJRoiFCUXanMDz29X56f8AYE/FcDBjKIwQxhKBuyEcPYmOGMYCSbsCmjGM0YNmNzxjKOLRjPBCYyiclMYSpbshXT2JrpzGAm27Ats5jNdsxhLvOYz/YsYCGLWMwSlrKM5axgJatYzRrWso717MCOPItn8xyey07szPN4Pi/ghbyIF7MLL2FXduOl7M4evIw92Yu92YeX8wr25ZXsx/68igM4kFfzGg7iYF7L6ziEQ3k9b+CNHMabeDOH8xbeytt4O0dwJEfxDo7mnRzDsbyL43g3x3MCJ3IS7+G9vI/38wE+yIf4MB/ho5zMKZzKaXyMj/MJPsmn+DSf4bN8js/zBb7I6XyJMziTszibcziXL3Me53MBF/IVLuJiLuFSLuNyruBKvsrX+Drf4Jt8i6v4Nt/hu1zNNVzLdXyP6/k+P+AGfsiP+DE/4UZ+ys+4iZ/zC37Jr7iZX/MbbuG33Mpt/I7f8wf+yO38iTu4kz9zF3dzD3/hr9zLffyNv3M/D/AgD/Ewj/Ao/+Cf/IvH+Df/4b88zhM8yVM8zf/H34CBDGIwQxjKhmzEMDZmOCMYySZsyihGM4bN2JyxjGMLxjOBiUxiMlOYypZsxTS2ZjozmMk2bMssZrMdc5jLPOazPQtYyCIWs4SlLGM5K1jJKlazhrWsYz3PABcGh6E=
+        </DataArray>
+        <DataArray type="Int64" Name="offsets" format="binary" RangeMin="4" RangeMax="320">
+          AQAAAACAAACAAgAAsgAAAA==eJwtxRFUAwEAANDrvYODwcHBwcHg4GBwcDA4OAiCwSAIgkEQBEEwGATBYBAEQRAEg8FgEARBEASDYDAIBkEQBINgsP/lh8Fe5JZjJ06due3chTsuXbnr2o0PfeSe+z72iU898JnPfeFLX3noka9947EnvvWd7/3gRz956pnnXvjZL371m9/94aU/vfLaX9742z/+9Z+3/ndwsC905JZjJ06due3chTsuXbnr2o13f3Ehsg==
+        </DataArray>
+        <DataArray type="UInt8" Name="types" format="binary" RangeMin="4" RangeMax="4">
+          AQAAAACAAABQAAAADAAAAA==eJxjYaEuAAAy8AFB
+        </DataArray>
+      </Cells>
+    </Piece>
+  </UnstructuredGrid>
+</VTKFile>
